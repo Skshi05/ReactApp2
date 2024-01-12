@@ -2,15 +2,14 @@
   text-align: center;
 }
 
-.food{
-  margin-left: 20px;
+.container input{
+  margin :15px;
+  font-size:20px;
+  padding:5px;
 }
-.apple{
-  margin-left: 20px;
-}
-.honey{
-  margin-left: 40px;
-}
-.fuji{
-  margin-left: 40px;
+.container button{
+  font-size: 20px;
+  border-radius: 4px;
+  padding: 5px;
+  cursor: pointer;
 }
